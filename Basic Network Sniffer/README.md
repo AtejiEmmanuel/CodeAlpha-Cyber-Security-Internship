@@ -4,7 +4,7 @@
 This project is a basic network sniffer using Python and Scapy. It allows users to capture and analyze network packets, extract protocol information, and apply filters.
 
 ## Prerequisites
-Before running the sniffer, ensure you have the following installed:
+Before running the sniffer, ensure the following are installed:
 
 - Python 3
 - Scapy library
@@ -19,7 +19,7 @@ Verify installation:
 scapy
 ```
 
-## Step 1: Create a Basic Packet Sniffer
+## Step 1: Creating a Basic Packet Sniffer
 
 Create a Python script named `basic_packet_sniffer.py`:
 
@@ -48,7 +48,7 @@ Run the script:
 sudo python3 basic_packet_sniffer.py
 ```
 
-## Step 2: Add Filtering Capabilities
+## Step 2: Adding Filtering Capabilities
 
 Create `basic_packet_sniffer_filter.py`:
 
