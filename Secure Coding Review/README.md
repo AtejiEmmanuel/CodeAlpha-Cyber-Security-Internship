@@ -1,6 +1,6 @@
 # Secure Coding Review Report for SQL Injection Vulnerability
 
-## Review Type:** Manual Secure Code Review  
+## Review Type: Manual Secure Code Review  
 
 ---
 
