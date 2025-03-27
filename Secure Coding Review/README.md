@@ -1,4 +1,4 @@
-# Secure Coding Review Report for SQL Injection
+# Secure Coding Review Report for SQL Injection Vulnerability
 
 ## Application: Flask-based Login System  
 **Review Type:** Manual Secure Code Review  
