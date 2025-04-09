@@ -1,10 +1,6 @@
 # 🛡️ Phishing Awareness Training
 
-![Phishing Banner](https://via.placeholder.com/800x200?text=Phishing+Awareness+Training)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 ## 📋 Table of Contents
 
