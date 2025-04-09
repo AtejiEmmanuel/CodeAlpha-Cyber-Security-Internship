@@ -245,4 +245,4 @@ Test your knowledge with these questions:
 
 *This repository is maintained as part of an ongoing security awareness initiative. Materials should be reviewed and updated regularly to reflect current phishing trends and techniques.*
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/AtejiEmmanue/phishing-awareness)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/AtejiEmmanue/)
