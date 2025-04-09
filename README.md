@@ -4,4 +4,4 @@
 
 ### Basic Network Sniffer
 ### Secure Coding Review
-##  Phishing Awareness Training
+### Phishing Awareness Training
