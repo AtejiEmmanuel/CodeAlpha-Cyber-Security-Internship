@@ -240,16 +240,9 @@ Test your knowledge with these questions:
   5. c) Change relevant passwords and notify IT security
 </details>
 
-## 🤝 Contributing
-
-Contributions to improve this phishing awareness training are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 *This repository is maintained as part of an ongoing security awareness initiative. Materials should be reviewed and updated regularly to reflect current phishing trends and techniques.*
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/yourusername/phishing-awareness)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/AtejiEmmanue/phishing-awareness)
