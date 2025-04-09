@@ -15,8 +15,6 @@
 - [Key Takeaways](#key-takeaways)
 - [Resources](#resources)
 - [Self-Assessment](#self-assessment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🔍 Introduction
 
