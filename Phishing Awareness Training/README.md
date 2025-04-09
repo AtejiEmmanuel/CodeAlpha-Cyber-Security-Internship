@@ -194,12 +194,7 @@ If you're expecting a delivery, go directly to the shipping company's official w
 - [FTC: How to Recognize and Avoid Phishing Scams](https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams)
 - [Anti-Phishing Working Group (APWG)](https://apwg.org/)
 
-### Organization-Specific Resources
-*(Edit this section with your organization's specific resources)*
 
-- IT Security Contact: [Enter specific contact information]
-- Email for Reporting Phishing: [Enter specific email address]
-- Internal Security Portal: [Enter specific URL]
 
 ## ✅ Self-Assessment
 
